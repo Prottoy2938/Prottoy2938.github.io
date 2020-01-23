@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{w8Ie:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");n.default=function(e){return w.a.createElement(c.a,{details:i.a})}}}]);
+//# sourceMappingURL=component---src-pages-webapps-card-dealer-js-dc948c5beb8d7e7b89b8.js.map

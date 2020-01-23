@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"Y+E2":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.g})}}}]);
+//# sourceMappingURL=component---src-pages-webapps-nayump-js-f7b20ae792a21b3e8377.js.map

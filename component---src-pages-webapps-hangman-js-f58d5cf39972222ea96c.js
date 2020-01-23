@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{vn0C:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.e})}}}]);
+//# sourceMappingURL=component---src-pages-webapps-hangman-js-f58d5cf39972222ea96c.js.map
