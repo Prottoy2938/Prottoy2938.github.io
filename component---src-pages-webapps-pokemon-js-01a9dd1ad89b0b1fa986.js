@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{TPTX:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.h})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-pokemon-js-01a9dd1ad89b0b1fa986.js.map

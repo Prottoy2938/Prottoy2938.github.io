@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{PN2C:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.f})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-lights-out-js-e7d5a29b252aae2f0cb1.js.map

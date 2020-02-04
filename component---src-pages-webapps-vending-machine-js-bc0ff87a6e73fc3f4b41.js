@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{u0C9:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),u=t.n(a),w=t("ZwG/"),c=t("+BOX");e.default=function(n){return u.a.createElement(w.a,{details:c.m})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-vending-machine-js-bc0ff87a6e73fc3f4b41.js.map

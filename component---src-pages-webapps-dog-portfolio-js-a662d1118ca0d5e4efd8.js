@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{aeLT:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),w=t("ZwG/"),i=t("+BOX");n.default=function(e){return c.a.createElement(w.a,{details:i.c})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-dog-portfolio-js-a662d1118ca0d5e4efd8.js.map
