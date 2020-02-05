@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"5aHy":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),o=t.n(a),w=t("ZwG/"),c=t("+BOX");e.default=function(n){return o.a.createElement(w.a,{details:c.o})}}}]);
+//# sourceMappingURL=component---src-pages-webapps-yahtzee-page-js-1f293ad5ba87609c2875.js.map

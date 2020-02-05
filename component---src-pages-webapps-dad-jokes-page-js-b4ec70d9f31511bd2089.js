@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{A497:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.b})}}}]);
+//# sourceMappingURL=component---src-pages-webapps-dad-jokes-page-js-b4ec70d9f31511bd2089.js.map
