@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{DYnk:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),i=t.n(a),w=t("ZwG/"),c=t("+BOX");e.default=function(n){return i.a.createElement(w.a,{details:c.i})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-react-color-picker-page-js-7393b53712a2c904d791.js.map

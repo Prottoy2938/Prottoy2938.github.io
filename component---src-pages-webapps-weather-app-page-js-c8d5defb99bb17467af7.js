@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{"cQ/V":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),c=t.n(a),w=t("ZwG/"),i=t("+BOX");e.default=function(n){return c.a.createElement(w.a,{details:i.n})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-weather-app-page-js-c8d5defb99bb17467af7.js.map

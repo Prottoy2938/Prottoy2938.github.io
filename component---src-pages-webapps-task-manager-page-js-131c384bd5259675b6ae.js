@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{cheO:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),w=t("ZwG/"),i=t("+BOX");n.default=function(e){return c.a.createElement(w.a,{details:i.l})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-task-manager-page-js-131c384bd5259675b6ae.js.map

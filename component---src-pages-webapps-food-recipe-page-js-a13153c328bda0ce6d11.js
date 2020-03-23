@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{z1gD:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),c=t("ZwG/"),i=t("+BOX");e.default=function(n){return w.a.createElement(c.a,{details:i.d})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-food-recipe-page-js-a13153c328bda0ce6d11.js.map

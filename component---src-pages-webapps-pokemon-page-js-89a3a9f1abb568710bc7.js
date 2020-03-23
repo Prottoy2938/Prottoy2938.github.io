@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{igrw:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),w=t.n(a),i=t("ZwG/"),r=t("+BOX");e.default=function(n){return w.a.createElement(i.a,{details:r.h})}}}]);
-//# sourceMappingURL=component---src-pages-webapps-pokemon-page-js-89a3a9f1abb568710bc7.js.map

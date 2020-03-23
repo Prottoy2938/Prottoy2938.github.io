@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"q/kL":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),i=a("DxD8"),r=a("iVFE"),c=a("Tb71");t.default=function(){return o.a.createElement(o.a.Fragment,null,o.a.createElement(c.a,{title:"Dog's Portfolio",description:"dog portfolio web application's page"}),o.a.createElement(i.a,{details:r.c}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-dog-portfolio-page-js-136c34dff71bb0a33230.js.map
