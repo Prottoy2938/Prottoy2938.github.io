@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"F/Zp":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),i=a.n(n),c=a("DxD8"),p=a("iVFE"),r=a("Tb71");t.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(r.a,{title:"Lights Out",description:"Lights out web application's page"}),i.a.createElement(c.a,{details:p.g}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-lights-out-page-js-c689919ba71392dda0aa.js.map

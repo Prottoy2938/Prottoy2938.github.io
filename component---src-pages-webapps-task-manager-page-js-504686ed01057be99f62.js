@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{cheO:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),i=n.n(t),r=n("DxD8"),c=n("iVFE"),s=n("Tb71");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(s.a,{title:"Task Manger",description:"Task Manager web application's page"}),i.a.createElement(r.a,{details:c.m}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-task-manager-page-js-504686ed01057be99f62.js.map

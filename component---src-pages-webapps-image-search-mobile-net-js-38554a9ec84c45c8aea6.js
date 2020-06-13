@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{l1FQ:function(t,e,n){"use strict";n.r(e);n("pIFo");var o=n("q1tI");e.default=function(){return Object(o.useEffect)((function(){window.location.replace("https://cluster-11.github.io/image-search-mobileNet/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-webapps-image-search-mobile-net-js-38554a9ec84c45c8aea6.js.map
