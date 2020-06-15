@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{l1FQ:function(t,n,e){"use strict";e.r(n);e("pIFo");var o=e("q1tI");n.default=function(){return Object(o.useEffect)((function(){window.location.replace("https://cluster-11.github.io/image-recognition-mobileNet/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-webapps-image-search-mobile-net-js-7f854be7a1d96694f559.js.map
