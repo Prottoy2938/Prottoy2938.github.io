@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{l1FQ:function(t,n,e){"use strict";e.r(n);e("pIFo");var o=e("q1tI");n.default=function(){return Object(o.useEffect)((function(){window.location.replace("https://cluster-11.github.io/image-recognition-starter/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-webapps-image-search-mobile-net-js-ad4b7ce8bab7ed95e1ac.js.map

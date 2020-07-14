@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{PzV1:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),i=t.n(n),o=t("DxD8"),c=t("iVFE"),r=t("Tb71");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(r.a,{title:"BackDrop",description:"A web application to change/modify video background to anything."}),i.a.createElement(o.a,{details:c.a}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-backdrop-page-js-b913d7177d52525a1aa8.js.map

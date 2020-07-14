@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{XKWO:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),i=n.n(t),r=n("DxD8"),c=n("iVFE"),o=n("Tb71");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(o.a,{title:"Open Mind",description:"A web application that you can use to train an AI and make it recognize your images"}),i.a.createElement(r.a,{details:c.j}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-open-mind-page-js-0d36c690506afd459e53.js.map

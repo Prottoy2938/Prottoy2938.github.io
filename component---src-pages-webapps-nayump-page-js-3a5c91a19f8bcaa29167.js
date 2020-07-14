@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{VTA4:function(e,a,i){"use strict";i.r(a);var t=i("q1tI"),n=i.n(t),s=i("DxD8"),c=i("iVFE"),r=i("Tb71");a.default=function(){return n.a.createElement(n.a.Fragment,null,n.a.createElement(r.a,{title:"Nayump",description:"Nayump is a web application which runs video on scroll. This is its description page"}),n.a.createElement(s.a,{details:c.i}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-nayump-page-js-3a5c91a19f8bcaa29167.js.map

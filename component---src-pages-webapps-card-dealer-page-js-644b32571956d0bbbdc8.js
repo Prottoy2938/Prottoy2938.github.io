@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Yw7V:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),i=t("DxD8"),c=t("iVFE"),l=t("Tb71");a.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(l.a,{title:"Card Dealer",description:"card dealer web application's description page"}),r.a.createElement(i.a,{details:c.b}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-card-dealer-page-js-644b32571956d0bbbdc8.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{igrw:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),i=n.n(a),r=n("DxD8"),o=n("iVFE"),c=n("Tb71");t.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(c.a,{title:"Pokemon Strength",description:"Pokemon Strength web application's page"}),i.a.createElement(r.a,{details:o.k}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-pokemon-page-js-11c278cf52163c675c6a.js.map

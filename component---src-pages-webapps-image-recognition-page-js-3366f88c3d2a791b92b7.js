@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{pyvE:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),c=t("DxD8"),o=t("iVFE"),r=t("Tb71");n.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(r.a,{title:"Image Recognition",description:"Image Recognition Web Application's Page"}),i.a.createElement(c.a,{details:o.f}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-image-recognition-page-js-3366f88c3d2a791b92b7.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{A497:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),i=t.n(n),c=t("DxD8"),o=t("Tb71"),r=t("iVFE");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(o.a,{title:"Dad Jokes",description:"Dad Joke web application's page"}),i.a.createElement(c.a,{details:r.c}))}}}]);
+//# sourceMappingURL=component---src-pages-webapps-dad-jokes-page-js-28620b2733e601a92824.js.map
