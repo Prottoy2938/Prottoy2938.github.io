@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{EfKk:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),i=n.n(t),c=n("DxD8"),r=n("iVFE"),l=n("Tb71");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(l.a,{title:"Hangman",description:"Hangman web application's page"}),i.a.createElement(c.a,{details:r.d}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-hangman-page-js-89702046aaf401eb7a6e.js.map

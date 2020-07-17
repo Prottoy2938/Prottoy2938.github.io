@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{"cQ/V":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),i=a.n(n),r=a("DxD8"),c=a("iVFE"),p=a("Tb71");t.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(p.a,{title:"Weather App",description:"Get weather data web application's page"}),i.a.createElement(r.a,{details:c.o}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-weather-app-page-js-b1f3e70cdb6a6d0ed351.js.map

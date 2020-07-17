@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{"5aHy":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),i=t.n(n),c=t("DxD8"),r=t("iVFE"),l=t("Tb71");a.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(l.a,{title:"Yahtzee",description:"Yahtzee web application's page"}),i.a.createElement(c.a,{details:r.o}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-yahtzee-page-js-eb101f444e619df8e564.js.map

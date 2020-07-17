@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{DYnk:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),i=a.n(n),c=a("DxD8"),r=a("iVFE"),o=a("Tb71");t.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(o.a,{title:"React Color Picker",description:"React Color Picker web application's page"}),i.a.createElement(c.a,{details:r.i}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-react-color-picker-page-js-421ef03040297ff4ab6b.js.map

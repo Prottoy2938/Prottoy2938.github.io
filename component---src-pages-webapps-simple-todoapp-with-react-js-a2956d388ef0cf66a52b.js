@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{pK1Q:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),p=a.n(n),c=a("DxD8"),i=a("iVFE"),o=a("Tb71");t.default=function(){return p.a.createElement(p.a.Fragment,null,p.a.createElement(o.a,{title:"React Todo App",description:"React todo app web application's page"}),p.a.createElement(c.a,{details:i.l}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-simple-todoapp-with-react-js-a2956d388ef0cf66a52b.js.map

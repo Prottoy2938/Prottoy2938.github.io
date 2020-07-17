@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{WQMw:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),r=t("DxD8"),c=t("Tb71"),l=t("iVFE");n.default=function(){return i.a.createElement(i.a.Fragment,null,i.a.createElement(c.a,{title:"Ingredient",description:"Ingredient web application's page"}),i.a.createElement(r.a,{details:l.e}))}}}]);
-//# sourceMappingURL=component---src-pages-webapps-ingredient-page-js-c5490107e66885853dfd.js.map
